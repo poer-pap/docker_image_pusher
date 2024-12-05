@@ -1,1 +1,2 @@
 python:alpine3.19
+tomcat:latest
