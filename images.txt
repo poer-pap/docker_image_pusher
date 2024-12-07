@@ -1,3 +1,1 @@
-python:alpine3.19
-tomcat:latest
-openjdk:8
+rabbitmq:4.0-management
