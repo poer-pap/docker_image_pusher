@@ -1,2 +1,3 @@
 busybox:glibc
 nginx
+ollama/ollama:latest
