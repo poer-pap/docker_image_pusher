@@ -1,3 +1,4 @@
 busybox:glibc
 nginx
 ollama/ollama:latest
+dyrnq/open-webui:latest
