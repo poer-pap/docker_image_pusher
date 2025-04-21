@@ -1,3 +1,4 @@
 # ghcr.io/open-webui/open-webui:main
 # guovern/iptv-api:lite
-docker.1ms.run/guovern/iptv-api:latest
+# docker.1ms.run/guovern/iptv-api:latest
+docker pull nginx:stable-alpine
