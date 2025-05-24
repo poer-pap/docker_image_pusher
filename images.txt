@@ -2,4 +2,5 @@
 # guovern/iptv-api:lite
 # docker.1ms.run/guovern/iptv-api:latest
 # nginx:stable-alpine
-monlor/xiaoya:latest
+# monlor/xiaoya:latest
+alist666/alist:latest
