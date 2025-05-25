@@ -3,4 +3,5 @@
 # docker.1ms.run/guovern/iptv-api:latest
 # nginx:stable-alpine
 # monlor/xiaoya:latest
-alist666/alist:latest
+# alist666/alist:latest
+ffuqiangg/sing-box-subscribe
