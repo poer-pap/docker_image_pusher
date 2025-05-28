@@ -4,4 +4,5 @@
 # nginx:stable-alpine
 # monlor/xiaoya:latest
 # alist666/alist:latest
-ffuqiangg/sing-box-subscribe
+# ffuqiangg/sing-box-subscribe:latest
+xream/sub-store:latest
