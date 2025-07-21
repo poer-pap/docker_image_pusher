@@ -5,4 +5,4 @@
 # monlor/xiaoya:latest
 # ffuqiangg/sing-box-subscribe:latest
 # xream/sub-store:latest
-openlistteam/openlist:latest
+--platform=linux/arm64 openlistteam/openlist:latest
