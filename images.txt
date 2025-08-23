@@ -6,4 +6,3 @@
 # ffuqiangg/sing-box-subscribe:latest
 # xream/sub-store:latest
 --platform=linux/arm64 openlistteam/openlist:latest
-
