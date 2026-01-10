@@ -7,5 +7,5 @@
 # xream/sub-store:latest
 # --platform=linux/arm64 openlistteam/openlist:v4.1.8
 # --platform=linux/arm64 tailscale/tailscale:latest
-amilys/embyserver:latest
-cp0204/smartstrm:latest
+--platform=linux/arm64 amilys/embyserver:latest
+--platform=linux/arm64 cp0204/smartstrm:latest
