@@ -5,9 +5,9 @@
 # monlor/xiaoya:latest
 # ffuqiangg/sing-box-subscribe:latest
 # xream/sub-store:latest
-# --platform=linux/arm64 openlistteam/openlist:v4.2.2
+--platform=linux/arm64 openlistteam/openlist:v4.2.3
 # --platform=linux/arm64 tailscale/tailscale:latest
 # --platform=linux/arm64 cp0204/smartstrm:latest
 # amilys/embyserver_arm64v8:latest
 # --platform=linux/arm64 tearsful/gecoosac:latest
---platform=linux/arm64 ghcr.io/daeuniverse/daed:latest
+# --platform=linux/arm64 ghcr.io/daeuniverse/daed:latest
